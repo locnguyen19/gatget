@@ -12,6 +12,11 @@ In this project, there will be four powerful technologies:
 <img width="1439" alt="Ảnh màn hình 2023-02-28 lúc 22 16 23" src="https://user-images.githubusercontent.com/63783152/221971462-aa3fa643-ce98-4f79-b225-ebf3e9ecf369.png">
 
 
+
+
+
+
+
 <img width="1439" alt="Ảnh màn hình 2023-02-28 lúc 22 16 42" src="https://user-images.githubusercontent.com/63783152/221971498-522e2fe2-4853-4fa5-8ad8-c7f208b3c270.png">
 
 
